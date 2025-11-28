@@ -30,4 +30,6 @@ Para rodar o código em seu computador:
   
     depois de ter colado e salvo, no mesmo cmd que já está aberto, digite "cargo run" e ele começará a rodar o código.
 
+    
 é preferível o download das seguintes extensões no vscode: rust-analyzer c/c++ extension pack (caso já venha instalado depois de baixar os pacotes do C++ mencionados acima, não precisa se preocupar) C/c++
+Tem alguns muitos bugs, talvez futuramente seja corrigido.
