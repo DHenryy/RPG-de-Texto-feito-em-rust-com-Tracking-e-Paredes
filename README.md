@@ -1,6 +1,6 @@
 # RPG-de-Texto-feito-em-rust-com-Tracking-e-Paredes
 Para rodar o código em seu computador:
-    Entre em (28/11), feito em (14/11)
+    Entregue em (28/11), feito em (14/11)
    
     será necessário a instalação do pacote do C++ (que pode ser baixado como pacote durante a instalação do Visual Studio) https://visualstudio.microsoft.com/pt-br/visual-cpp-build-tools/
    
